@@ -1,0 +1,4 @@
+#pragma once
+
+#define ENABLE_BACKEND_OPENGL
+#define ENABLE_BACKEND_VULKAN
